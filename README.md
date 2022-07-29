@@ -1,6 +1,11 @@
 # mslab
 
 Inside the folder
+
+
+chmod 777 mvnw
+
+
 ./mvnw spring-boot:run
 
 Postman : http://localhost:8000/createBook
