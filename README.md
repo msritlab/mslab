@@ -21,3 +21,7 @@ insert data.
   "author": "Abhishek",
   "publisher": "meow"
 }
+
+
+1. select put for update
+2. select DELETE, http://localhost:8000/deleteBook/1
